@@ -196,3 +196,13 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;/*the gap between the column*/
+}
+#photos > img{
+    width:100%
+
+}

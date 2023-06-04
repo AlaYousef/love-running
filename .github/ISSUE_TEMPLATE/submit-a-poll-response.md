@@ -1,5 +1,5 @@
 ---
-name: User story 1
+name: Submit a poll response
 about: Submit a poll response
 title: ''
 labels: ''
